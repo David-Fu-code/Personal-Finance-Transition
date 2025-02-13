@@ -1,0 +1,33 @@
+date,amount,category,description
+01-07-2024,125,Income,Salary
+02-07-2024,90,Expense,Freelance Work
+03-07-2024,200,Income,Utilities
+04-07-2024,250,Expense,Groceries
+05-07-2024,125.32,Income,Transport
+06-07-2024,85.32,Expense,Clothing
+07-07-2024,235.32,Income,Gas
+08-07-2024,785.32,Expense,Groceries
+09-07-2024,665.32,Income,Clothing
+10-07-2024,1225.32,Expense,Freelance Work
+11-07-2024,15.32,Income,Books
+12-07-2024,225.32,Expense,Utilities
+13-07-2024,95.32,Income,Clothing
+14-07-2024,225.32,Expense,Cryptos
+15-07-2024,825.32,Income,Salary
+16-07-2024,225.32,Expense,Stationary
+17-07-2024,325.32,Income,Utilities
+18-07-2024,425.32,Expense,Groceries
+19-07-2024,925.32,Income,Salary
+20-07-2024,25.32,Expense,Freelance Work
+21-07-2024,725.32,Income,Bonus
+22-07-2024,300,Expense,Transport
+23-07-2024,543,Income,Restaurant
+24-07-2024,75,Expense,Stock Dividend
+25-07-2024,80,Income,Gas
+26-07-2024,525,Expense,Books
+27-07-2024,800,Income,Clothing
+28-07-2024,1200,Expense,Salary
+29-07-2024,45,Income,Stationary
+30-07-2024,190,Expense,Utilities
+31-07-2024,124.0,Income,Groceries
+
